@@ -5,7 +5,7 @@ local kimbox = {
     normal = {
         a = {fg = c.blue3, bg = c.blue1, gui = "bold"},
         b = {fg = c.blue3, bg = c.blue2},
-        c = {fg = c.blue2, bg = c.blue3},
+        c = {fg = c.blue1, bg = c.blue2},
         x = {fg = c.blue3, bg = c.blue3},
         y = {fg = c.purple, bg = c.bg, gui = "bold"},
         z = {fg = c.purple, bg = c.bg, gui = "bold"}
