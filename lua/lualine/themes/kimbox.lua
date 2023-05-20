@@ -17,16 +17,16 @@ local kimbox = {
         x = {fg = c.purple3, bg = c.purple2}
     },
     inactive = {
-        a = {fg = c.red, bg = c.bg},
-        b = {fg = c.magenta, bg = c.bg}
+        a = {fg = c.gray3, bg = c.gray1},
+        b = {fg = c.gray1, bg = c.gray3}
     },
     insert = {
-        a = {fg = c.green, bg = c.bg, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg},
-        y = {fg = c.green, bg = c.bg, gui = "bold"},
-        z = {fg = c.green, bg = c.bg, gui = "bold"}
+        a = {fg = c.green3, bg = c.green1, gui = "bold"},
+        b = {fg = c.green3, bg = c.green2},
+        c = {fg = c.green1, bg = c.green3},
+        x = {fg = c.green1, bg = c.green3},
+        y = {fg = c.green3, bg = c.green2, gui = "bold"},
+        z = {fg = c.green3, bg = c.green1, gui = "bold"}
     },
     replace = {
         a = {fg = c.red3, bg = c.red1, gui = "bold"},
@@ -35,12 +35,12 @@ local kimbox = {
         x = {fg = c.red2, bg = c.red3}
     },
     terminal = {
-        a = {fg = c.yellow, bg = c.bg, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg},
-        y = {fg = c.yellow, bg = c.bg, gui = "bold"},
-        z = {fg = c.yellow, bg = c.bg, gui = "bold"}
+        a = {fg = c.orange3, bg = c.orange1, gui = "bold"},
+        b = {fg = c.orange3, bg = c.orange2},
+        c = {fg = c.orange1, bg = c.orange3},
+        x = {fg = c.orange1, bg = c.orange3},
+        y = {fg = c.orange3, bg = c.orange2, gui = "bold"},
+        z = {fg = c.orange3, bg = c.orange1, gui = "bold"}
     },
     visual = {
         a = {fg = c.yellow3, bg = c.yellow1, gui = "bold"},
