@@ -12,7 +12,7 @@ local kimbox = {
     },
     command = {
         a = {fg = c.purple3, bg = c.purple1, gui = "bold"},
-        b = {fg = c.purple3, bg = c.purple2},
+        b = {fg = c.purple1, bg = c.purple3},
         c = {fg = c.purple1, bg = c.purple3},
         x = {fg = c.purple3, bg = c.purple2}
     },
