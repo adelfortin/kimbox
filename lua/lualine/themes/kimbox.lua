@@ -3,7 +3,7 @@ local c = require("kimbox.lualine").colors()
 ---@class KimboxLualineConfig
 local kimbox = {
     normal = {
-        a = {fg = c.bg, bg = c.purple, gui = "bold"},
+        a = {fg = c.bg, bg = c.morning_blue, gui = "bold"},
         b = {fg = c.fg, bg = c.bg},
         c = {fg = c.fg, bg = c.bg2},
         x = {fg = c.fg, bg = c.bg},
