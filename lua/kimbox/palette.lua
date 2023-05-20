@@ -6,6 +6,9 @@ local bgs = {
     deep = "#0F111B",
     zinnwaldite = "#291804",
     eerie = "#1C0B28",
+    blue1 = "#3B5998",
+    blue2 = "#8B9DC3",
+    blue3 = "#DFE3EE",
 }
 
 bgs.medium = bgs.burnt_coffee
