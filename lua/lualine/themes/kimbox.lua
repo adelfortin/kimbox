@@ -13,8 +13,8 @@ local kimbox = {
     command = {
         a = {fg = c.purple3, bg = c.purple1, gui = "bold"},
         b = {fg = c.purple1, bg = c.purple3},
-        c = {fg = c.purple1, bg = c.purple3},
-        x = {fg = c.purple3, bg = c.purple2}
+        c = {fg = c.purple3, bg = c.purple2},
+        x = {fg = c.purple1, bg = c.purple3}
     },
     inactive = {
         a = {fg = c.gray3, bg = c.gray1},
