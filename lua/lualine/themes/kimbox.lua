@@ -6,9 +6,9 @@ local kimbox = {
         a = {fg = c.blue3, bg = c.blue1, gui = "bold"},
         b = {fg = c.blue3, bg = c.blue2},
         c = {fg = c.blue1, bg = c.blue3},
-        x = {fg = c.blue3, bg = c.blue2},
-        y = {fg = c.purple, bg = c.bg, gui = "bold"},
-        z = {fg = c.purple, bg = c.bg, gui = "bold"}
+        x = {fg = c.blue1, bg = c.blue3},
+        y = {fg = c.blue3, bg = c.blue2, gui = "bold"},
+        z = {fg = c.blue3, bg = c.blue1, gui = "bold"}
     },
     command = {
         a = {fg = c.blue, bg = c.bg, gui = "bold"},
