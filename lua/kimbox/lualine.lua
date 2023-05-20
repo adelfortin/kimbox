@@ -23,6 +23,9 @@ function M.colors()
     purple = c.purple,
     cyan = c.aqua,
     salmon = c.salmon,
+    blue1 = "#3B5998",
+    blue2 = "#8B9DC3",
+    blue3 = "#DFE3EE",
   }
 end
 
