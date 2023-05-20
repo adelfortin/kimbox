@@ -35,6 +35,15 @@ function M.colors()
     yellow1 = "#A57D00",
     yellow2 = "#F9C64E",
     yellow3 = "#F9D889",
+    green1 = "#326300",
+    green2 = "#37B810",
+    green3 = "#D2F4C6",
+    orange1 = "#F4931F",
+    orange2 = "#F6A84B",
+    orange3 = "#FCE9D2",
+    gray1 = "#353535",
+    gray2 = "#6D6D6D",
+    gray3 = "#DDDDDD",
   }
 end
 
