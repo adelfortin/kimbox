@@ -43,12 +43,12 @@ local kimbox = {
         z = {fg = c.yellow, bg = c.bg, gui = "bold"}
     },
     visual = {
-        a = {fg = c.salmon, bg = c.bg, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg},
-        y = {fg = c.salmon, bg = c.bg, gui = "bold"},
-        z = {fg = c.salmon, bg = c.bg, gui = "bold"}
+        a = {fg = c.yellow3, bg = c.yellow1, gui = "bold"},
+        b = {fg = c.yellow3, bg = c.yellow2},
+        c = {fg = c.yellow1, bg = c.yellow3},
+        x = {fg = c.yellow1, bg = c.yellow3},
+        y = {fg = c.yellow3, bg = c.yellow2, gui = "bold"},
+        z = {fg = c.yellow3, bg = c.yellow1, gui = "bold"}
     }
 }
 
