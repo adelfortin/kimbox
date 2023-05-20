@@ -11,10 +11,10 @@ local kimbox = {
         z = {fg = c.blue3, bg = c.blue1, gui = "bold"}
     },
     command = {
-        a = {fg = c.blue, bg = c.bg, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg}
+        a = {fg = c.purple3, bg = c.purple1, gui = "bold"},
+        b = {fg = c.purple3, bg = c.purple2},
+        c = {fg = c.purple1, bg = c.purple3},
+        x = {fg = c.purple3, bg = c.purple2}
     },
     inactive = {
         a = {fg = c.red, bg = c.bg},
