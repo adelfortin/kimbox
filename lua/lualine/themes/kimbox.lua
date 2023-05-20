@@ -4,9 +4,9 @@ local c = require("kimbox.lualine").colors()
 local kimbox = {
     normal = {
         a = {fg = c.blue3, bg = c.blue1, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg},
+        b = {fg = c.blue3, bg = c.blue2},
+        c = {fg = c.blue2, bg = c.blue1},
+        x = {fg = c.blue3, bg = c.blue1},
         y = {fg = c.purple, bg = c.bg, gui = "bold"},
         z = {fg = c.purple, bg = c.bg, gui = "bold"}
     },
