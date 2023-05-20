@@ -40,6 +40,9 @@ local fgs = {
     aqua = "#7EB2B1",
     blue = "#4C96A8",
     purple = "#98676A",
+    blue1 = "#3b5998"
+    blue2 = "#8b9dc3"
+    blue3 = "#dfe3ee"
     --
     philippine_green = "#088649",
     sea_green = "#77A172",
