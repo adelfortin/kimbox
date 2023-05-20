@@ -29,10 +29,10 @@ local kimbox = {
         z = {fg = c.green, bg = c.bg, gui = "bold"}
     },
     replace = {
-        a = {fg = c.red, bg = c.bg, gui = "bold"},
-        b = {fg = c.fg, bg = c.bg},
-        c = {fg = c.fg, bg = c.bg2},
-        x = {fg = c.fg, bg = c.bg}
+        a = {fg = c.red3, bg = c.red1, gui = "bold"},
+        b = {fg = c.red3, bg = c.red2},
+        c = {fg = c.red2, bg = c.red3},
+        x = {fg = c.red2, bg = c.red3}
     },
     terminal = {
         a = {fg = c.yellow, bg = c.bg, gui = "bold"},
