@@ -47,7 +47,7 @@ local kimbox = {
         b = {fg = c.yellow3, bg = c.yellow2},
         c = {fg = c.yellow1, bg = c.yellow3},
         x = {fg = c.yellow1, bg = c.yellow3},
-        y = {fg = c.yellow3, bg = c.yellow2, gui = "bold"},
+        y = {fg = c.yellow1, bg = c.yellow2, gui = "bold"},
         z = {fg = c.yellow3, bg = c.yellow1, gui = "bold"}
     }
 }
